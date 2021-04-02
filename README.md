@@ -1,14 +1,14 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fstock-photo%2Fcs.html&psig=AOvVaw3b3j_3CItNcg1P6u5BeYgh&ust=1617433788210000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCLt8qA3-8CFQAAAAAdAAAAABAD">
 
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Hey there! I'm Sahil singh Rathore.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 🤔 &nbsp; Exploring new technologies and new languages.
+- 🎓 &nbsp; Studying Computer Science at Rama university at kanpur.
+- 💼 &nbsp; Working as a freeLancer  at Lenskills Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Web development and Enhancing logics as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
