@@ -41,8 +41,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://priceless-brahmagupta-f99551.netlify.app/">Click to my Portfolio</a>
-<a href="https://www.linkedin.com/in/sahil-singh-rathore-20297b202/">Click to LinkedIn</a>
+<a href="https://priceless-brahmagupta-f99551.netlify.app/">Click to my Portfolio</a><br />
+<a href="https://www.linkedin.com/in/sahil-singh-rathore-20297b202/">Click to LinkedIn</a><br />
 
 <a href="mailto:sr7933960@gmail.com">Click to Gmail</a>
 </p>
