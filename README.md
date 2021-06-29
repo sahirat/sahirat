@@ -5,6 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and new languages.
+- 😎 &nbsp; Currently Working on MERN Technology.
 - 🎓 &nbsp; Studying Computer Science at Rama university at kanpur.
 - 💼 &nbsp; Working as a freeLancer  at Lenskills Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
