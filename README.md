@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and new languages.
 - 😎 &nbsp; Currently Working on MERN Technology.
 - 🎓 &nbsp; Studying Computer Science at Rama university at kanpur.
-- 💼 &nbsp; Working as a freeLancer  at Lenskills Private Limited.
+- 💼 &nbsp; 5 🌟 coder at HackerRank in java.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Web development and Enhancing logics as hobbies/side hustles.
 
