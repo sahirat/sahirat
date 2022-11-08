@@ -8,8 +8,9 @@
 - 😎 &nbsp; Currently Working on MERN Technology.
 - 🎓 &nbsp; Studying Computer Science at Rama university at kanpur.
 - 💼 &nbsp; 5 🌟 coder at HackerRank in java.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Web development and Enhancing logics as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about Cloud Architecture,ML,DL,Systems Design and Artificial Intelligence.
+- ⭐️ &nbsp; Winner Of Smart India Hackathon 2022
+- 📱  &nbsp; Focusing on Android Development Using Java 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
